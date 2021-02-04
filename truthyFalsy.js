@@ -1,6 +1,6 @@
 // 0 //false
 // const name = ''; //false
-// let name; //false
+// let name; undefined //false
 // let name = NaN; //false
 // let name = null //false
 // false
